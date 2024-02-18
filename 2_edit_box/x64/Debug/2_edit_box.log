@@ -1,0 +1,4 @@
+﻿  2_edit_boxDlg.cpp
+D:\Project\MFC_study\2_edit_box\2_edit_boxDlg.cpp(181,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Project\MFC_study\2_edit_box\2_edit_boxDlg.cpp(182,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  2_edit_box.vcxproj -> D:\Project\MFC_study\x64\Debug\2_edit_box.exe
